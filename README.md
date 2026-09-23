@@ -1,318 +1,217 @@
 <!-- ========================================================= -->
 
-<!--                        HERO                               -->
+<!--                         HERO                              -->
 
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:00f7ff&height=260&section=header&text=MALAY%20SAO&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:00d9ff&height=260&section=header&text=MALAY%20SAO&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+SYSTEMS+ENGINEER;BACKEND+ARCHITECT;AUTOMATION+ENGINEER;REAL-TIME+SYSTEMS+BUILDER;PYTHON+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=NETWORK+SUPPORT+ENGINEER;IT+SUPPORT+%7C+SYSTEM+ADMINISTRATION;PYTHON+DEVELOPER;CLOUD+%26+AI+ENTHUSIAST;NETWORKING+%7C+TROUBLESHOOTING;BUILDING+PRACTICAL+TECHNOLOGY+SOLUTIONS"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/Malaysao2004">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00f7ff" />
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00d9ff" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00d9ff" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Malaysao2004&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Malaysao2004&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
 </p>
 
 <br>
 
 <!-- ========================================================= -->
 
-<!--                    SYSTEM STATUS                          -->
+<!--                     PROFESSIONAL SUMMARY                   -->
 
 <!-- ========================================================= -->
 
-## `> SYSTEM STATUS`
+## 👋 Hello, I'm Malay Sao
+
+I'm a **Network Support Engineer** with hands-on experience in network operations, IT support, system administration, troubleshooting, and infrastructure support.
+
+My technical interests extend beyond traditional IT infrastructure into **Python development, cloud computing, automation, and AI**.
+
+I enjoy understanding how systems work, diagnosing technical problems, and building practical solutions that improve reliability, efficiency, and user experience.
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│                       MALAY SAO // SYSTEM                       │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  STATUS        ● ONLINE                                         │
-│  ROLE          AI SYSTEMS ENGINEER                              │
-│  PRIMARY       PYTHON                                           │
-│  SPECIALTY     AI • BACKEND • AUTOMATION • REAL-TIME            │
-│                                                                 │
-│  BUILD MODE    ████████████████████░░░  90%                    │
-│  LEARNING      █████████████████████░░  95%                    │
-│  COFFEE        ███████████████████████  100%                   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+NETWORKING ─────── IT SUPPORT ─────── SYSTEMS
+       │                │                 │
+       └────────────────┼─────────────────┘
+                        │
+                     PYTHON
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+            CLOUD                AI
 ```
 
 ---
 
-# `01 // ABOUT`
+# `01 // PROFESSIONAL PROFILE`
+
+| Area           | Focus                                                   |
+| -------------- | ------------------------------------------------------- |
+| 🌐 Networking  | TCP/IP, DNS, DHCP, VLAN, VPN, LAN/WAN, SSH              |
+| 🖥️ IT Support | Hardware, software, OS, remote support, troubleshooting |
+| ⚙️ Systems     | Windows, Linux, Active Directory, Microsoft 365         |
+| 🐍 Development | Python, Java, HTML, CSS, JavaScript                     |
+| ☁️ Cloud       | Cloud fundamentals and cloud-based technologies         |
+| 🤖 AI          | AI fundamentals, AI-assisted development and automation |
+| 🔧 Diagnostics | Wireshark, Nmap, Ping, Traceroute, SNMP                 |
+
+---
+
+# `02 // EXPERIENCE`
+
+## 💼 Assistant Network Technician
+
+**Light Wave — RailWave / RailTel**
+`2026 — Present`
+
+Working in network operations and technical infrastructure support.
+
+**Key responsibilities:**
+
+* Monitor and maintain broadband network infrastructure.
+* Configure and support routers, switches, and network devices.
+* Troubleshoot LAN/WAN and Internet connectivity issues.
+* Diagnose network problems and assist with performance optimization.
+* Provide technical support to users and internal teams.
+* Support Active Directory operations and user administration.
+* Assist with maintaining network availability and service reliability.
+
+---
+
+## 🖥️ IT Lab Coordinator
+
+**Jetking Learning Centre**
+`2025 — 2026`
+
+Responsible for IT infrastructure, lab systems, user support, and technical operations.
+
+**Key responsibilities:**
+
+* Managed IT assets and maintained equipment records.
+* Installed and configured Windows operating systems.
+* Performed hardware and software troubleshooting.
+* Provided remote and on-site technical support.
+* Resolved end-user technical issues.
+* Maintained system readiness and lab infrastructure.
+* Prepared technical reports and system status updates.
+
+---
+
+# `03 // TECHNOLOGY STACK`
+
+### Programming & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,github,vscode&perline=8" />
+</p>
+
+### Systems & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker&perline=8" />
+</p>
+
+### Networking
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TCP%2FIP-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/DNS-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/DHCP-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/VLAN-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/VPN-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/SSH-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/LAN%2FWAN-0f172a?style=for-the-badge&logoColor=00d9ff" />
+</p>
+
+### Administration & Support
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-0f172a?style=for-the-badge&logo=microsoft&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-0f172a?style=for-the-badge&logo=microsoft&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Remote%20Support-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/System%20Administration-0f172a?style=for-the-badge&logoColor=00d9ff" />
+</p>
+
+### Network Diagnostics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-0f172a?style=for-the-badge&logo=wireshark&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Ping-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/Traceroute-0f172a?style=for-the-badge&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/SNMP-0f172a?style=for-the-badge&logoColor=00d9ff" />
+</p>
+
+---
+
+# `04 // CORE COMPETENCIES`
 
 <table>
 <tr>
-<td width="55%">
+<td width="33%">
 
-### 👨‍💻 Who Am I?
+### 🌐 Networking
 
-I'm an **AI Systems Engineer** focused on designing intelligent, scalable and production-ready systems.
+* TCP/IP
+* OSI Model
+* Subnetting
+* Routing
+* VLANs
+* DHCP
+* DNS
+* NAT
+* VPN
+* LAN/WAN
+* SSH
+* Network Troubleshooting
 
-My work sits at the intersection of:
+</td>
 
-* 🤖 Artificial Intelligence
-* ⚙️ Backend Engineering
-* 🔄 Real-Time Systems
-* 🧠 System Architecture
-* 🚀 Automation
-* 🐳 Infrastructure
+<td width="33%">
 
-I enjoy taking complicated problems and turning them into **simple, reliable systems**.
+### 🖥️ IT & Systems
+
+* Windows
+* Linux
+* Active Directory
+* Microsoft 365
+* Hardware Support
+* Software Installation
+* User Administration
+* Remote Support
+* System Troubleshooting
+* IT Asset Management
 
 </td>
 
-<td width="45%">
+<td width="33%">
 
-```python
-class Malaysao:
-
-    role = "AI Systems Engineer"
-
-    stack = {
-        "language": "Python",
-        "backend": [
-            "Django",
-            "FastAPI"
-        ],
-        "systems": [
-            "Redis",
-            "Docker",
-            "Linux"
-        ]
-    }
-
-    mission = """
-    Build intelligent systems
-    that scale.
-    """
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# `02 // ENGINEERING STACK`
-
-### ⚡ Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,html,css,mysql,redis,docker,git,github,linux,vscode&perline=7" />
-</p>
-
-<br>
-
-### 🧠 Engineering Domains
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI_AGENTS-111827?style=for-the-badge&logo=openai&logoColor=00f7ff" />
-<img src="https://img.shields.io/badge/BACKEND-111827?style=for-the-badge&logo=django&logoColor=00f7ff" />
-<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00f7ff" />
-<img src="https://img.shields.io/badge/REAL_TIME-111827?style=for-the-badge&logo=socketdotio&logoColor=00f7ff" />
-<img src="https://img.shields.io/badge/AUTOMATION-111827?style=for-the-badge&logo=githubactions&logoColor=00f7ff" />
-<img src="https://img.shields.io/badge/DOCKER-111827?style=for-the-badge&logo=docker&logoColor=00f7ff" />
-
-</p>
-
----
-
-# `03 // GITHUB COMMAND CENTER`
-
-<p align="center">
-
-<img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Malaysao2004&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&rank_icon=github"
-/>
-
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Malaysao2004&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff"
-/>
-
-</p>
-
----
-
-# `04 // LANGUAGE ANALYTICS`
-
-<p align="center">
-
-<img
-width="55%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaysao2004&layout=donut-vertical&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00f7ff"
-/>
-
-</p>
-
----
-
-# `05 // CONTRIBUTION MATRIX`
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Malaysao2004&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true"
-width="100%"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Malaysao2004/Malaysao2004/output/github-contribution-grid-snake.svg"
-width="100%"
-/>
-
-</p>
-
----
-
-# `06 // GITHUB TROPHIES`
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Malaysao2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
-/>
-
-</p>
-
----
-
-# `07 // DEVELOPMENT METRICS`
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malaysao2004&theme=github_dark"
-width="100%"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malaysao2004&theme=github_dark"
-width="49%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malaysao2004&theme=github_dark"
-width="49%"
-/>
-
-</p>
-
----
-
-# `08 // CURRENT OPERATIONS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT OPERATIONS                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] Building AI-powered applications                 ●    ║
-║                                                              ║
-║  [02] Designing scalable backend architectures         ●    ║
-║                                                              ║
-║  [03] Exploring autonomous AI agents                   ●    ║
-║                                                              ║
-║  [04] Improving system performance                     ●    ║
-║                                                              ║
-║  [05] Learning distributed systems                     ●    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-# `09 // FEATURED SYSTEMS`
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Agent Systems
-
-Building intelligent agents capable of:
-
-* Tool execution
-* Workflow automation
-* Context management
-* API orchestration
-* Autonomous task execution
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Backend Systems
-
-Engineering:
-
-* REST APIs
-* Authentication systems
-* Async processing
-* Redis pipelines
-* Real-time services
-* Scalable architectures
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔄 Automation
-
-Automating repetitive workflows using:
+### 🐍 Development
 
 * Python
+* Java
+* HTML
+* CSS
+* JavaScript
+* Python Scripting
+* Automation
 * APIs
-* Background workers
-* Scheduled jobs
-* Event-driven architecture
-
-</td>
-
-<td width="50%">
-
-### 🐳 Infrastructure
-
-Working with:
-
-* Docker
-* Linux
-* Git
-* CI/CD
-* Containers
-* Production deployments
+* Basic Web Development
+* Tool Development
 
 </td>
 </tr>
@@ -320,68 +219,266 @@ Working with:
 
 ---
 
-# `10 // ENGINEERING PRINCIPLES`
-
-<p align="center">
+# `05 // CURRENT FOCUS`
 
 ```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│     THINK       →       DESIGN       →       BUILD  │
-│                                                     │
-│       ↓                    ↓                 ↓      │
-│                                                     │
-│     TEST        →      BREAK        →     OPTIMIZE  │
-│                                                     │
-│       ↓                    ↓                 ↓      │
-│                                                     │
-│                 SHIP TO PRODUCTION                  │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                     CURRENT FOCUS                            │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  NETWORKING                                                  │
+│  ├── CCNA & Advanced Networking                             │
+│  ├── Network Troubleshooting                                │
+│  └── Network Security Fundamentals                           │
+│                                                              │
+│  DEVELOPMENT                                                 │
+│  ├── Python                                                  │
+│  ├── Automation                                              │
+│  └── Web Development                                         │
+│                                                              │
+│  CLOUD & AI                                                  │
+│  ├── Cloud Computing                                         │
+│  ├── AI Fundamentals                                         │
+│  └── AI-powered Applications                                 │
+│                                                              │
+│  SYSTEMS                                                     │
+│  ├── Linux                                                   │
+│  ├── Windows Administration                                  │
+│  └── Infrastructure                                          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-### `> Philosophy`
-
-**Architecture before complexity.**
-
-**Automation before repetition.**
-
-**Performance before hype.**
-
-**Clean code before clever code.**
-
-**Build → Break → Learn → Improve.**
 
 ---
 
-# `11 // CONNECT`
+# `06 // EDUCATION`
+
+### 🎓 Master of Computer Applications — Pursuing
+
+**Rungta College of Engineering and Technology, Kohka, Bhilai**
+`2025 — Present`
+
+### ☁️ Diploma in Cloud Computing with AI — Pursuing
+
+**Jetking, Durg**
+`2025 — Present`
+
+### 🎓 Bachelor of Computer Applications — 83%
+
+**Rungta College of Science and Technology, Ganjpara, Durg**
+`2022 — 2025`
+
+### 📚 Senior Secondary — Class XII
+
+**Kendriya Vidyalaya Sangathan No. 1, Raipur**
+`2021 — 2022`
+
+---
+
+# `07 // CERTIFICATIONS & LEARNING`
+
+### 📡 Cisco CCNA
+
+**Current Focus:** Networking fundamentals, routing & switching, infrastructure, troubleshooting, and network security.
+
+> Continuously developing practical networking knowledge through hands-on learning and technical projects.
+
+---
+
+# `08 // GITHUB ANALYTICS`
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Malaysao2004&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Malaysao2004&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"
+  />
+</p>
+
+---
+
+# `09 // LANGUAGE ANALYTICS`
+
+<p align="center">
+  <img
+    width="55%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaysao2004&layout=donut&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00d9ff"
+  />
+</p>
+
+---
+
+# `10 // CONTRIBUTION ACTIVITY`
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Malaysao2004&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+# `11 // CONTRIBUTION SNAKE`
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Malaysao2004/Malaysao2004/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</p>
+
+---
+
+# `12 // PROFILE SUMMARY`
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malaysao2004&theme=github_dark"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malaysao2004&theme=github_dark"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malaysao2004&theme=github_dark"
+    width="49%"
+  />
+</p>
+
+---
+
+# `13 // WHAT I'M BUILDING`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Network Projects
+
+Practical projects focused on:
+
+* Network monitoring
+* Connectivity diagnostics
+* Network automation
+* Infrastructure utilities
+* Troubleshooting tools
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Projects
+
+Building practical Python solutions for:
+
+* Automation
+* System administration
+* Network utilities
+* API integration
+* Data processing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Projects
+
+Exploring:
+
+* Cloud infrastructure
+* Cloud applications
+* Deployment
+* Automation
+* Infrastructure concepts
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Projects
+
+Learning and experimenting with:
+
+* AI applications
+* Intelligent automation
+* AI-assisted development
+* Python + AI integrations
+* Practical AI tools
+
+</td>
+</tr>
+</table>
+
+---
+
+# `14 // PROFESSIONAL APPROACH`
+
+```text
+                    UNDERSTAND
+                        │
+                        ▼
+                     ANALYZE
+                        │
+                        ▼
+                     DESIGN
+                        │
+                        ▼
+                      BUILD
+                        │
+                        ▼
+                      TEST
+                        │
+                        ▼
+                     DEBUG
+                        │
+                        ▼
+                    IMPROVE
+                        │
+                        ▼
+                     REPEAT
+```
+
+> **Understand the problem. Diagnose systematically. Build practical solutions. Keep learning.**
+
+---
+
+# `15 // CONNECT`
 
 <p align="center">
 
 <a href="https://github.com/Malaysao2004">
-<img src="https://img.shields.io/badge/GitHub-Malaysao2004-111827?style=for-the-badge&logo=github&logoColor=00f7ff" />
+  <img src="https://img.shields.io/badge/GitHub-Malaysao2004-0f172a?style=for-the-badge&logo=github&logoColor=00d9ff" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=00d9ff" />
 </a>
 
+</p>
+
+<p align="center">
+  <strong>Networking • IT Support • Python • Cloud • AI</strong>
 </p>
 
 ---
 
 <p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:172554,100:00f7ff&height=140&section=footer"
-/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:00d9ff&height=140&section=footer"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <code>01001001 01001110 01001110 01001111 01010110 01000001 01010100 01000101</code>
-</p>
-
-<p align="center">
-  <sub>Building intelligent systems. One commit at a time.</sub>
+  <sub>Learn continuously • Build practically • Solve systematically</sub>
 </p>
